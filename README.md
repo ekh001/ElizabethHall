@@ -29,7 +29,7 @@ Liz Hall<br>
 
 <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 
-<img align="left" alt="Flask" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" />
+<img align="left" alt="Flask" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/npm/flask-icons/icons/flask.svg" />
 
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 
@@ -38,6 +38,13 @@ Liz Hall<br>
 <img align="left" alt="SQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /><br>
 
 #
+
+<details>
+ <summary><h3>👩‍💻 A Bit of Background</h3></summary>
+   I dove into the field of software development with a love of all things design and finding solutions to puzzles. As a passionate junior software engineer, building and improving websites has become my favorite way to express myself creatively. My experience began with HTML/CSS, and then transitioned towards JavaScript, React, and Python. With experience in React, I specialize in using JavaScript and Typescript to create fun and engaging user experiences. I am currently seeking to combine my passion for creativity and problem-solving with software development, and am looking for roles that will fuel my constant desire to learn and grow. 
+
+Outside the world of development, I can usually be found somewhere in a forest, somewhere with my nose in a book, or somewhere in a forest with my nose in a book. </details>
+
 
 ### 📊 Stats
 
