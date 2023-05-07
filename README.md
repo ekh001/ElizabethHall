@@ -5,7 +5,7 @@ Liz Hall<br>
 
 ## Hello world!
 
-#### I'm just a developer, standing in front of a virtual audience, asking them to check out her projects. 
+#### I'm just a developer, standing in front of a virtual audience, asking them to check out my projects. 
 ---
 
 ### 🧰 Languages and Tools
