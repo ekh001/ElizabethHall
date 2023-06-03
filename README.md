@@ -48,7 +48,7 @@ Outside the world of development, I can usually be found somewhere in a forest, 
 
 <!-- ### 📊 Stats -->
 
-<!-- ![Liz's GitHub stats](https://github-readme-stats.vercel.app/api?username=ekh001&show_icons=true&theme=algolia) -->
+![Liz's GitHub stats](https://github-readme-stats.vercel.app/api?username=ekh001&show_icons=true&theme=algolia)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=ekh001&theme=gruvbox&border_radius=4.5)
 
