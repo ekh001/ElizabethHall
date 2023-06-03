@@ -46,10 +46,10 @@ Liz Hall<br>
 Outside the world of development, I can usually be found somewhere in a forest, somewhere with my nose in a book, or somewhere in a forest with my nose in a book. </details>
 
 
-### 📊 Stats
+<!-- ### 📊 Stats -->
 
-![Liz's GitHub stats](https://github-readme-stats.vercel.app/api?username=ekh001&show_icons=true&theme=algolia)
+<!-- ![Liz's GitHub stats](https://github-readme-stats.vercel.app/api?username=ekh001&show_icons=true&theme=algolia) -->
 
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ekh001&theme=gruvbox&border_radius=4.5) -->
+![GitHub Streak](https://streak-stats.demolab.com?user=ekh001&theme=gruvbox&border_radius=4.5)
 
 #
