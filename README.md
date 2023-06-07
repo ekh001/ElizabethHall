@@ -49,9 +49,7 @@ Outside the world of development, I can usually be found somewhere in a forest, 
 <!-- ### 📊 Stats -->
 
  
-[![](https://raw.githubusercontent.com/ekh001/ekh001stats/master/profile-summary-card-output/tokyonight/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/ekh001/ekh001stats/master/profile-summary-card-output/tokyonight/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/ekh001/ekh001stats/master/profile-summary-card-output/tokyonight/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/ekh001/ekh001stats/master/profile-summary-card-output/tokyonight/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/ekh001/ekh001stats/master/profile-summary-card-output/tokyonight/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+![](https://raw.githubusercontent.com/ekh001/ekh001stats/master/profile-summary-card-output/tokyonight/0-profile-details.svg)
 
 <!--  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ekh001)](https://github.com/anuraghazra/github-readme-stats) -->
 
