@@ -49,7 +49,7 @@ Outside the world of development, I can usually be found somewhere in a forest, 
 <!-- ### 📊 Stats -->
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ekh001&theme=dark&show_icons=true) -->
- http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username={ekh001}&theme={tokyonight}&exclude={exclude}
+[![Languages](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username={ekh001}&theme={tokyonight}&exclude={exclude})]
  
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ekh001)](https://github.com/anuraghazra/github-readme-stats)
 
