@@ -53,6 +53,6 @@ Outside the world of development, I can usually be found somewhere in a forest, 
 
 <!--  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ekh001)](https://github.com/anuraghazra/github-readme-stats) -->
 
-![GitHub Streak](https://streak-stats.demolab.com?user=ekh001&theme=gruvbox&border_radius=4.5)
+ <!--![GitHub Streak](https://streak-stats.demolab.com?user=ekh001&theme=gruvbox&border_radius=4.5) --> 
 
 #
